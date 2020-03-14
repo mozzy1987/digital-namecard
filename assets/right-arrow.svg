@@ -1,16 +1,24 @@
-<svg width="8" height="12" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="8px" height="12px" viewBox="0 0 8 12" enable-background="new 0 0 8 12" xml:space="preserve">
 <title>noun_715033_cc</title>
 <desc>Created using Figma</desc>
 <g id="Canvas" transform="translate(-5238 -2656)">
-<g id="noun_715033_cc">
-<g id="Group">
-<g id="Vector">
-<use xlink:href="#path0_stroke" transform="translate(5239 2657)" fill="#575757"/>
+	<g>
+		<g id="noun_715033_cc_8_">
+			<g id="Group_8_">
+				<g id="Vector_8_">
+					<g transform="translate(5239 2657)">
+						<path id="path0_stroke_8_" fill="#1E3C69" d="M5238.84,2666.809c-0.106,0.088-0.12,0.246-0.032,0.352s0.246,0.12,0.352,0.031
+							L5238.84,2666.809z M5245,2662l0.16,0.192c0.057-0.047,0.09-0.118,0.09-0.192s-0.033-0.145-0.09-0.192L5245,2662z
+							 M5239.16,2656.808c-0.106-0.088-0.264-0.074-0.352,0.032s-0.074,0.264,0.032,0.352L5239.16,2656.808z M5239.16,2667.191l6-5
+							l-0.32-0.384l-6,5L5239.16,2667.191z M5245.16,2661.808l-6-5l-0.32,0.384l6,5L5245.16,2661.808z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
 </g>
-</g>
-</g>
-</g>
-<defs>
-<path id="path0_stroke" d="M -0.160046 9.80794C -0.266115 9.89633 -0.280446 10.054 -0.192055 10.16C -0.103664 10.2661 0.0539768 10.2804 0.160046 10.1921L -0.160046 9.80794ZM 6 5L 6.16005 5.19205C 6.21704 5.14456 6.25 5.07419 6.25 5C 6.25 4.9258 6.21704 4.85544 6.16005 4.80794L 6 5ZM 0.160046 -0.192055C 0.0539768 -0.280446 -0.103664 -0.266115 -0.192055 -0.160046C -0.280446 -0.0539765 -0.266115 0.103665 -0.160046 0.192056L 0.160046 -0.192055ZM 0.160046 10.1921L 6.16005 5.19205L 5.83995 4.80794L -0.160046 9.80794L 0.160046 10.1921ZM 6.16005 4.80794L 0.160046 -0.192055L -0.160046 0.192056L 5.83995 5.19205L 6.16005 4.80794Z"/>
-</defs>
 </svg>

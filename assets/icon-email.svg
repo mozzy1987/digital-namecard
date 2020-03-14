@@ -1,14 +1,23 @@
-<svg width="25" height="25" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="25px" height="25px" viewBox="0 0 25 25" enable-background="new 0 0 25 25" xml:space="preserve">
 <title>noun_99709_cc</title>
 <desc>Created using Figma</desc>
 <g id="Canvas" transform="translate(-4909 -2597)">
-<g id="noun_99709_cc">
-<g id="Vector">
-<use xlink:href="#path0_fill" transform="translate(4909 2597)" fill="#219653"/>
+	<g>
+		<g id="noun_99709_cc_8_">
+			<g id="Vector_8_">
+				<g transform="translate(4909 2597)">
+					<path id="path0_fill_8_" fill="#1E3C69" d="M4921.5,2597c6.903,0,12.5,5.597,12.5,12.5s-5.597,12.5-12.5,12.5
+						c-6.904,0-12.5-5.597-12.5-12.5S4914.596,2597,4921.5,2597z M4929.021,2613.619l-0.004-8.042l-4.791,3.297L4929.021,2613.619z
+						 M4923.438,2609.317l-1.705,1.142c-0.072,0.048-0.156,0.072-0.239,0.072c-0.083,0-0.166-0.023-0.238-0.071l-1.746-1.177
+						l-4.939,4.887h13.865L4923.438,2609.317z M4918.769,2608.783l-4.779-3.222v8.028L4918.769,2608.783z M4921.494,2609.573
+						l6.941-4.663h-13.853L4921.494,2609.573z"/>
+				</g>
+			</g>
+		</g>
+	</g>
 </g>
-</g>
-</g>
-<defs>
-<path id="path0_fill" d="M 12.5 -3.15905e-08C 19.4034 -3.15905e-08 25 5.59656 25 12.5C 25 19.4034 19.4034 25 12.5 25C 5.59625 25 -3.15905e-08 19.4034 -3.15905e-08 12.5C -3.15905e-08 5.59656 5.59625 -3.15905e-08 12.5 -3.15905e-08ZM 20.0212 16.6184L 20.0172 8.57719L 15.2266 11.8744L 20.0212 16.6184ZM 14.4381 12.3172L 12.7331 13.4597C 12.6606 13.5069 12.5766 13.5313 12.4944 13.5313C 12.4113 13.5313 12.3288 13.5072 12.2563 13.46L 10.5109 12.2834L 5.57156 17.1703L 19.4366 17.1703L 14.4381 12.3172ZM 9.76844 11.7825L 4.98969 8.56063L 4.98969 16.5888L 9.76844 11.7825ZM 12.4941 12.5734L 19.4353 7.91062L 5.58312 7.91062L 12.4941 12.5734Z"/>
-</defs>
 </svg>
