@@ -36,7 +36,7 @@ img.profile-pic {
 	height: 15%;
 	width: 15%;
 	object-fit: cover;
-	border-radius: 25%;
+	border-radius: 0%;
 }
 
 .container {
@@ -134,7 +134,7 @@ img.profile-pic {
 	height: 8%;
 }
 
-.bg-color-Image {
+.bg-color-grey banner {
 	background-color: #1E3C69;
 }
 
