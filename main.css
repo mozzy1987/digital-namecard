@@ -134,32 +134,32 @@ img.profile-pic {
 	height: 8%;
 }
 
-.bg-color-grey {
-	background-color: #F2F2F2;
+.bg-color-Image {
+	background-color: #1E3C69;
 }
 
 .bg-color-white {
-	background-color: white;
+	background-color: #1E3C69;
 }
 
 .text-name {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #000000;
+    color: white;
     font-size: 20px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
     font-weight: 200;
-    color: #000000;
+    color: WHITE;
     font-size: 14px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #000000;
+    color: white;
     font-size: 14px;
 }
 
@@ -168,28 +168,28 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: white;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
 	text-align: center;
 	vertical-align: middle;
 	line-height: 48px;
-	font-family: 'Muli', sans-serif;
-	color: white;
-	font-weight: 300;
+	font-family: 'Lato', sans-serif;
+	color: #1E3C69;
+	font-weight: 800;
 }
 
 @media screen and (max-width: 600px) {
   img.profile-pic {
-    height: 60%;
-    width: 60%;
+    height: 50%;
+    width: 50%;
   }
 }
 
 @media screen and (max-width: 480px) {
   img.profile-pic {
-    height: 80%;
-    width: 80%;
+    height: 70%;
+    width: 70%;
   }
 }
