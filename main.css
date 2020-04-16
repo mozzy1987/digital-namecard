@@ -4,6 +4,7 @@ body {
   width: 100%;
   margin: 0;
   justify-content: center;
+  background: #000;
 }
 
 section {
@@ -11,6 +12,7 @@ section {
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
 	height: auto;
+	background: #000;
 }
 
 p {
@@ -30,19 +32,22 @@ img {
     height: auto;
     width: auto;
     object-fit: contain;
+	background:#000;
 }
 
 img.profile-pic {
 	height: 15%;
 	width: 15%;
 	object-fit: cover;
-	border-radius: 75%;
+	border-radius: 0%;
 }
 
 .container {
 	margin: 0 auto;
 	position: relative;
 	height: 100%;
+	background: #000;
+
 }
 
 .row {
@@ -96,6 +101,7 @@ img.profile-pic {
 .col.is-6 {
 	flex: none;
 	width: 60%;
+	color:#000;
 }
 
 .col.is-7 {
@@ -124,6 +130,7 @@ img.profile-pic {
 
 .banner {
 	height: 30%;
+	color:#000;
 }
 
 .primary-info {
@@ -135,11 +142,11 @@ img.profile-pic {
 }
 
 .bg-color-grey banner {
-	background-color: #1E3C69;
+	background-color: #000;
 }
 
 .bg-color-white {
-	background-color: #1E3C69;
+	background-color: #000;
 }
 
 .text-name {
