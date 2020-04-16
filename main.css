@@ -45,7 +45,7 @@ img.profile-pic {
 .container {
 	margin: 0 auto;
 	position: relative;
-	height: 100%;
+	height: 90%;
 	background: #000;
 
 }
@@ -150,21 +150,21 @@ img.profile-pic {
 }
 
 .text-name {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Gotham', sans-serif;
     font-weight: 400;
     color: white;
     font-size: 20px;
 }
 
 .text-title-company {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Gotham', sans-serif;
     font-weight: 200;
     color: WHITE;
     font-size: 14px;
 }
 
 .text-detail {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Gotham', sans-serif;
     font-weight: 300;
     color: white;
     font-size: 14px;
