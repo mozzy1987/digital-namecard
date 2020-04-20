@@ -2,9 +2,10 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Morrissey;Paul;;;
-FN: Paul Morrissey 
+FN: Paul Morrissey
 ORG:XL Office Solutions;
 TITLE:Business Development Manager
+PHOTO;VALUE=URI;TYPE=jpg:;https://mozzy1987.github.io/digital-namecard/user.jpg
 EMAIL;type=INTERNET;type=WORK;type=pref:paul.morrissey@xlos.co.uk
 TEL;type=WORK;type=VOICE:01617891950
 TEL;type=MOBILE;type=VOICE:+44 7752264677
