@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Sanserson;Stefan;;;
+FN: Stefan Sanderson
+ORG:XL Office Solutions;
+TITLE:Director
+PHOTO;VALUE=URI;TYPE=jpg:;https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/13876167_10154025494577293_3661686420097356681_n.jpg?_nc_cat=105&_nc_sid=85a577&_nc_ohc=kY0vDjqbew0AX-1xDOm&_nc_ht=scontent-lht6-1.xx&oh=75ca704b2f1c40ff456460305c78cd06&oe=5F55E064
+EMAIL;type=INTERNET;type=WORK;type=pref:stefan.sanderson@xlos.co.uk
+TEL;type=WORK;type=VOICE:01617891950
+TEL;type=MOBILE;type=VOICE:+44 7802977333
+item1.ADR;type=WORK;type=pref:;;6-8 Vine Street, Eccles, Manchester, M30 0GF
+item1.X-ABADR:sg
+item2.URL;type=pref:xlofficesolutions.co.uk/
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
